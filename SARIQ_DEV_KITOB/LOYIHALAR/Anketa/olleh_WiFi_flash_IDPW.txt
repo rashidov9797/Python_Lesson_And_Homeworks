@@ -1,0 +1,4 @@
+olleh WiFi Flash ID AND PASSWORD
+--------------------------
+id : 8h7f63
+password : i4c7e9

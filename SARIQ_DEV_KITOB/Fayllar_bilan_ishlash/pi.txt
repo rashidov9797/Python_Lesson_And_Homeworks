@@ -1,0 +1,5 @@
+
+
+
+talaba1 = "Azamat Rashidov"
+talaba2 = "Avaz Karimov" 
